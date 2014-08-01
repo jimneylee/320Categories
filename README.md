@@ -15,5 +15,5 @@ import *TTCategoryHeader.h* file to your PCH file or your AppDelegate file.
 ```
 
 ``` bash
-$ git submodule add https://github.com/jimneylee/320Categories.git vendor/320Categories
+$ git submodule add https://github.com/jimneylee/320Categories.git Vendor/320Categories
 ```
