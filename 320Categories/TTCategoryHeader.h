@@ -1,13 +1,13 @@
 //
 //  TTCategoryHeader.h
-//  MKCommon
+//  320Categories
 //
 //  Created by jimneylee on 14-5-19.
-//  Copyright (c) 2014年 taocz. All rights reserved.
+//  Copyright (c) 2014年 facebook. All rights reserved.
 //
 
-#ifndef MKCommon_TTCategoryHeader_h
-#define MKCommon_TTCategoryHeader_h
+#ifndef TTCategoryHeader_h
+#define TTCategoryHeader_h
 
 #import "NSDataAdditions.h"
 #import "NSDateAdditions.h"
