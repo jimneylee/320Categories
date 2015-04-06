@@ -9,5 +9,6 @@ Pod::Spec.new do |s|
                  :tag => '0.2.2' }
   s.ios.deployment_target = '5.0'
   s.source_files = '320Categories'
+  s.resource     = "320Categories/Three20.bundle"
   s.requires_arc = true
 end
