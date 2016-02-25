@@ -3,7 +3,7 @@
 
 maintenance base facebook's three20
 
-## Use Cocoapods
+## Use CocoaPods
 
 support later on
 
